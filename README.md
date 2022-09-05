@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 
-[Space Tourism](https://harsh2432.github.io/Space-Tourism/) project take you for a tour in space 🚀
+[Space Tourism](https://harsh2432.github.io/Space-Tourism/) project takes you for a tour in space 🚀
 
 ## Technology Used
 
